@@ -4,4 +4,4 @@ Delta Strategy is a co-developed portfolio architecture engineered around antifr
 
 This document reflects authorship and system-level design intent only. No proprietary code, implementation models, or internal white paper materials are included.
 
-    Disclaimer: This summary is for educational and strategic insight purposes only. It is not an internal governance document and does not disclose any executable components or confidential intellectual property.
+Disclaimer: This summary is for educational and strategic insight purposes only. It is not an internal governance document and does not disclose any executable components or confidential intellectual property.
