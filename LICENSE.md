@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-This work — including the Delta Strategy Public Facing Summary PDF and all related written content in this repository — is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+This work — including the "Executive Summary - Delta Strategy" document and all related written content in this repository — is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 You are free to:
 - Read and share the unmodified document with proper attribution.
