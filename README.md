@@ -1,6 +1,6 @@
-# Delta Strategy – Executive Summary
+# Delta Strategy – Public Summary
 
-Delta Strategy is a co-developed portfolio architecture engineered around antifragile risk structuring and recursive capital integrity. This repository presents an executive-level summary of the system's design philosophy, intelligence layers, and conceptual framework.
+Delta Strategy is a co-developed portfolio architecture engineered around antifragile risk structuring and recursive capital integrity. This repository presents an public-level summary of the system's design philosophy, intelligence layers, and conceptual framework.
 
 This document reflects authorship and system-level design intent only. No proprietary code, implementation models, or internal white paper materials are included.
 
