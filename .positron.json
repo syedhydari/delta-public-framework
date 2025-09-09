@@ -1,0 +1,75 @@
+# Positron IDE Configuration for Delta QRM Framework
+{
+  "name": "Delta QRM Framework",
+  "description": "Quantitative Risk Management Framework for Columbia University",
+  "version": "1.0.0",
+  "r": {
+    "version": "4.3.3",
+    "renv": {
+      "enabled": true,
+      "autoload": true
+    },
+    "startup": {
+      "profile": ".Rprofile",
+      "loadWorkspace": false,
+      "saveWorkspace": false
+    }
+  },
+  "positron": {
+    "viewer": {
+      "auto_open": true,
+      "plot_format": "png",
+      "plot_width": 800,
+      "plot_height": 600
+    },
+    "console": {
+      "auto_clear": false,
+      "prompt": "QRM> "
+    },
+    "environment": {
+      "auto_refresh": true,
+      "show_hidden": false
+    }
+  },
+  "project": {
+    "type": "R",
+    "source_directories": ["R", "examples"],
+    "test_directories": ["tests"],
+    "data_directories": ["data"],
+    "documentation_directories": ["docs"]
+  },
+  "packages": {
+    "required": [
+      "tidyverse",
+      "quantmod", 
+      "PerformanceAnalytics",
+      "MASS",
+      "quadprog",
+      "broom",
+      "moments",
+      "tseries",
+      "lmtest",
+      "here"
+    ],
+    "suggested": [
+      "renv",
+      "devtools",
+      "roxygen2",
+      "testthat"
+    ]
+  },
+  "tasks": {
+    "setup": {
+      "command": "source('setup_packages.R')",
+      "description": "Install required packages"
+    },
+    "intro": {
+      "command": "source('examples/intro_to_qrm.R')",
+      "description": "Run introduction tutorial"
+    },
+    "analysis": {
+      "command": "source('examples/comprehensive_qrm_analysis.R')",
+      "description": "Run comprehensive QRM analysis"
+    }
+  }
+}
