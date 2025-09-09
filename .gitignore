@@ -1,0 +1,58 @@
+# .gitignore for Delta QRM Framework
+
+# R specific files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+
+# Local package library
+R-libs/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+*.log
+*.out
+
+# Data files (keep sample data but ignore large datasets)
+data/large_datasets/
+data/real_market_data/
+
+# Results and cache
+results/
+cache/
+*.cache
+
+# Plots and outputs (optional - comment out if you want to keep them)
+plots/
+output/
+
+# Package development files
+man/
+NAMESPACE
+*.Rcheck/
+*.tar.gz
+
+# Positron specific (if any)
+.positron/
