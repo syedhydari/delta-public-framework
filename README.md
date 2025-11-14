@@ -4,4 +4,4 @@ Delta Strategy is a full-stack portfolio architecture engineered around antifrag
 
 The document herein reflects formal authorship and system-level design intent only. No proprietary code, implementation models, or internal white paper materials are included (legally and IP-wise).
 
-Disclaimer: The public summary is for educational and overview insight purposes only. It is not the internal white paper and does not disclose any executable components or confidential intellectual property.
+Disclaimer: The public summary is for educational and overview insight purposes only. It is not the internal white paper and does not disclose any executable components or confidential intellectual property, legally.
