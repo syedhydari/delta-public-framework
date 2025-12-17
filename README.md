@@ -1,4 +1,4 @@
-# Delta Strategy - Public Summary Doc.
+# Delta Strategy - Public Summary Document
 
 Delta Strategy is a full-stack portfolio architecture engineered around antifragile risk structuring and recursive capital integrity. This repository strictly presents a public-facing summary of the system's intelligence philosophy.
 
