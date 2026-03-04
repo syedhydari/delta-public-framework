@@ -1,8 +1,8 @@
-# Delta Strategy - Public Summary Document
+# Delta Strategy Co. - Public Summary Document
 
-Authors: Syed Bashir Hydari, Katsushi Arisaka, Jeff Traister
+Authors: Katsushi Arisaka, Syed Bashir Hydari, Jeff Traister
 
-Delta Strategy is a full-stack portfolio architecture engineered around antifragile risk structuring and recursive capital integrity. This repository strictly presents a public-facing summary of the system's intelligence philosophy.
+We propose a full-stack portfolio architecture engineered around antifragile risk structuring and recursive capital integrity. This repository strictly presents a public-facing summary of the system's intelligence philosophy.
 
 The document herein reflects formal authorship and system-level design intent only. No proprietary code, implementation models, or internal white paper materials are included (legally and IP-wise).
 
