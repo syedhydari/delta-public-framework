@@ -1,4 +1,4 @@
-# Public Summary of White Paper / Risk Architecture
+# Public Summary of White Paper (Risk)
 
 Authors: Katsushi Arisaka, Syed Bashir Hydari, Jeff Traister
 
