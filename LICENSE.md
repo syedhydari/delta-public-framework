@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-This work — including the "Public Summary - Delta Strategy" document and all related written content in this repository — is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+This work — including the white paper document and all related written content in this repository — is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 You are free to:
 - Read and share the unmodified document with proper attribution.
@@ -16,4 +16,4 @@ This license preserves the integrity of the original authorship and prohibits al
 To view a copy of this license, visit:  
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-© 2025 Syed Bashir Hydari. All rights reserved.
+© 2025 Delta Strategy Co. All rights reserved.
