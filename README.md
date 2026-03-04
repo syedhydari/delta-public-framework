@@ -1,4 +1,4 @@
-# Public Summary of White Paper - Portfolio Risk Architecture
+# Public Summary of White Paper / Risk Architecture
 
 Authors: Katsushi Arisaka, Syed Bashir Hydari, Jeff Traister
 
