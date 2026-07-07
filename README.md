@@ -9,3 +9,15 @@ of investment, and detailed methodology remains private.
 The program described here was early-stage and exploratory. This document summarizes its
 themes at the level of general direction, not mechanism, and should not be read as describing any
 specific model or algorithm — nor any research conducted outside the program.
+
+Senior review & program oversight — Jeff Traister (formerly Guggenheim Partners)
+Scientific advisor — Dr. Katsushi Arisaka (UCLA, Distinguished Professor)
+Lead researcher & architecture — Syed B. Hydari
+Coordination & support — Three members
+
+Successor research pursued independently by Syed B. Hydari in academic and professional
+settings is separate from this program. This document neither describes such work nor makes any
+claim over it.
+
+The complete white paper is held in private circulation and is available to qualified professional
+parties on request. © Delta Strategy Co. All rights reserved.
