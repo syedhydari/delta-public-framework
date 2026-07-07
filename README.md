@@ -12,6 +12,4 @@ Lead researcher & architecture — Syed B. Hydari
 
 Coordination & support — Three members
 
-Successor research pursued independently by Syed B. Hydari in academic and professional settings is separate from this program. This document neither describes such work nor makes any claim over it.
-
-The complete white paper is held in private circulation and is available to qualified professional parties on request. © Delta Strategy Co. All rights reserved.
+Successor research pursued independently by Syed B. Hydari in academic and professional settings is separate from this program. This document neither describes such work nor makes any claim over it. The complete white paper is held in private circulation and is available to qualified professional parties on request. © Delta Strategy Co. All rights reserved.
