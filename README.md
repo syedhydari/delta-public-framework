@@ -11,8 +11,11 @@ themes at the level of general direction, not mechanism, and should not be read 
 specific model or algorithm — nor any research conducted outside the program.
 
 Senior review & program oversight — Jeff Traister (formerly Guggenheim Partners)
+
 Scientific advisor — Dr. Katsushi Arisaka (UCLA, Distinguished Professor)
+
 Lead researcher & architecture — Syed B. Hydari
+
 Coordination & support — Three members
 
 Successor research pursued independently by Syed B. Hydari in academic and professional
