@@ -1,9 +1,11 @@
-# Public Summary of White Paper (Risk)
+# Executive Summary - White Paper
 
-Authors: Katsushi Arisaka, Syed Bashir Hydari, Jeff Traister
+This abstract is a public, non-confidential overview prepared for professional reference. It
+discloses no proprietary signals, formulas, code, model parameters, asset universe, thresholds, or
+implementation details. It documents the research program’s structure, lineage, and conceptual
+approach only. Nothing herein constitutes an offer, a performance representation, or a solicitation
+of investment, and detailed methodology remains private.
 
-We propose a portfolio risk architecture engineered around antifragile risk structuring and recursive capital integrity. This repository strictly presents a public-facing summary of the system's governance and design philosophy.
-
-The document herein reflects formal authorship and system-level design intent only. No proprietary code, implementation models, or internal white paper materials are included (legally and IP-wise).
-
-Disclaimer: The public summary is for educational and overview insight purposes only. It is not the internal white paper and does not disclose any executable components or confidential intellectual property, legally.
+The program described here was early-stage and exploratory. This document summarizes its
+themes at the level of general direction, not mechanism, and should not be read as describing any
+specific model or algorithm — nor any research conducted outside the program.
