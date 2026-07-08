@@ -4,11 +4,11 @@ This abstract is a public, non-confidential overview prepared for professional r
 
 The program described here was early-stage and exploratory. This document summarizes its themes at the level of general direction, not mechanism, and should not be read as describing any specific model or algorithm — nor any research conducted outside the program. Therein, it explores the structure, lineage, and validation standards of a pre-AUM systematic research program developed at Delta Strategy Co.
 
+Lead researcher & architecture — Syed B. Hydari
+
 Senior review & program oversight — Jeff Traister (formerly Guggenheim Partners)
 
 Scientific advisor — Dr. Katsushi Arisaka (UCLA, Distinguished Professor)
-
-Lead researcher & architecture — Syed B. Hydari
 
 Coordination & support — Three members
 
