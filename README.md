@@ -1,19 +1,31 @@
-# Executive Summary - White Paper
+# Delta Strategy Co. | Non-Disclosive White Paper
 
-Date: June 2023 - Sept 2025
+**June 2023–September 2025 — Redacted professional research abstract:** public, non-confidential overview of a pre-AUM systematic portfolio research program developed at Delta Strategy Co.
 
-This abstract is a public, non-confidential overview prepared for professional reference. It discloses no proprietary signals, formulas, code, model parameters, asset universe, thresholds, or implementation details. It documents the research program’s structure, lineage, and conceptual approach only. Nothing herein constitutes an offer, a performance representation, or a solicitation of investment, and detailed methodology remains private.
+## Project Context
 
-The program described here was early-stage and exploratory. This document summarizes its themes at the level of general direction, not mechanism, and should not be read as describing any specific model or algorithm — nor any research conducted outside the program. Therein, it explores the structure, lineage, and validation standards of a pre-AUM systematic research program developed at Delta Strategy Co.
+- **Date Range:** June 2023–September 2025
+- **Status:** Redacted / non-disclosive white paper abstract
+- **Context:** Pre-AUM systematic research program
+- **Lead Researcher & Architecture:** Syed B. Hydari
+- **Senior Review & Program Oversight:** Jeff Traister, formerly Guggenheim Partners
+- **Scientific Advisor:** Dr. Katsushi Arisaka, UCLA Distinguished Professor
+- **Research Area:** Systematic portfolio architecture, risk-oriented research design, validation standards, and model-governance structure
 
-Lead researcher & architecture — Syed B. Hydari
+## Overview
 
-Senior review & program oversight — Jeff Traister (formerly Guggenheim Partners)
+This repository contains a public, non-confidential abstract of an early-stage systematic research program developed at Delta Strategy Co.
 
-Scientific advisor — Dr. Katsushi Arisaka (UCLA, Distinguished Professor)
+The document summarizes the program’s structure, research lineage, and conceptual approach at a high level only. It does not disclose proprietary signals, formulas, code, model parameters, asset universes, thresholds, implementation details, or performance representations.
 
-Coordination & support — Three members
+## Scope
 
-Successor research pursued independently by Syed B. Hydari in academic and professional settings is separate from this program. This document neither describes such work nor makes any claim over it. The complete white paper is held in private circulation and is available to qualified professional parties on request. 
+This abstract is intended for professional reference and documents only the general direction of the Delta Strategy Co. research program.
+
+Successor research pursued independently by Syed B. Hydari in academic and professional settings is separate from this program and is not described or claimed by this document.
+
+## Note
+
+This repository does not constitute investment advice, an offer, a solicitation, or a performance representation. The complete white paper remains in private circulation and may be made available to qualified professional parties upon request.
 
 © Delta Strategy Co. All rights reserved.
