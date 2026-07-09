@@ -26,6 +26,6 @@ Successor research pursued independently by Syed B. Hydari in academic and profe
 
 ## Note
 
-This repository does not constitute investment advice, an offer, a solicitation, or a performance representation. The complete white paper remains in private circulation and may be made available to qualified professional parties upon request.
+This repository does not constitute investment advice, an offer, a solicitation, or a performance representation. The complete white paper remains in private circulation, available to qualified professional parties upon request.
 
 © Delta Strategy Co. All rights reserved.
