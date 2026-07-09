@@ -9,7 +9,7 @@
 - **Context:** Pre-AUM systematic research program
 - **Senior Review & Program Oversight:** Jeff Traister, formerly Guggenheim Partners
 - **Scientific Advisor:** Dr. Katsushi Arisaka, UCLA Distinguished Professor
-- **Lead Researcher & Architecture:** Syed B. Hydari
+- **Lead Researcher & Architecture:** Syed B. Hydari (Columbia graduate)
 - **Research Area:** Systematic portfolio architecture, risk-oriented research design, validation standards, and model-governance structure
 
 ## Overview
