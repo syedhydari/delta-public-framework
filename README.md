@@ -1,4 +1,4 @@
-# Delta Strategy Co. | Non-Disclosive White Paper
+# Delta Strategy Co. | Executive Summary
 
 **June 2023–September 2025 — Redacted professional research abstract:** public, non-confidential overview of a pre-AUM systematic portfolio research program developed at Delta Strategy Co.
 
