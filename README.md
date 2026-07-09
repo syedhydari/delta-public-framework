@@ -7,8 +7,8 @@
 - **Date Range:** June 2023–September 2025
 - **Status:** Redacted / non-disclosive white paper abstract
 - **Context:** Pre-AUM systematic research program
-- **Senior Review & Program Oversight:** Jeff Traister, ex-Guggenheim
-- **Scientific Advisor:** Dr. Katsushi Arisaka, UCLA
+- **Senior Review & Program Oversight:** Jeff Traister (formerly Guggenheim)
+- **Scientific Advisor:** Dr. Katsushi Arisaka (UCLA)
 - **Lead Researcher & Architecture:** Syed B. Hydari
 - **Research Area:** Systematic portfolio architecture, risk-oriented research design, validation standards, and model-governance structure
 
