@@ -16,4 +16,4 @@ This license preserves the integrity of the original authorship and prohibits al
 To view a copy of this license, visit:  
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-© 2025 Delta Strategy Co. All rights reserved.
+© 2023-25 Delta Strategy Co. All rights reserved.
