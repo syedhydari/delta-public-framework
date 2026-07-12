@@ -30,7 +30,7 @@ This repository does not constitute investment advice, an offer, a solicitation,
 
 ## Intellectual Property Notice
 
-Copyright © 2023–2026 [CORRECT COPYRIGHT OWNER(S)]. All rights reserved.
+Copyright © 2023–2025 [Syed Bashir Hydari, Katsushi Arisaka, Jeff Traister]. All rights reserved.
 
 This repository is provided publicly solely for personal inspection,
 academic evaluation, professional evaluation, and verification of the
