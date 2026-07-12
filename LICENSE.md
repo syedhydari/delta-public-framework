@@ -1,19 +1,36 @@
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+PROPRIETARY NOTICE — ALL RIGHTS RESERVED
 
-This work — including the white paper public summary document and all related written content in this repository — is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+Copyright © 2023–2026 [Syed Bashir Hydari, Katsushi Arisaka, Jeff Traister].
+All rights reserved.
 
-You are free to:
-- Read and share the unmodified document with proper attribution.
-- Reference the work for non-commercial educational or research purposes.
+The Delta Strategy white paper, public summary, documentation, figures,
+charts, mathematical exposition, research materials, source code, models,
+analyses, results, and all other original content contained in this
+repository are proprietary and protected by applicable copyright and
+intellectual-property laws.
 
-You may not:
-- Modify, remix, adapt, or transform the material in any way.
-- Use the material for commercial purposes.
-- Redistribute the content in altered form.
+This material is made publicly accessible solely for personal viewing,
+academic evaluation, professional evaluation, and verification of the
+authors’ work.
 
-This license preserves the integrity of the original authorship and prohibits all commercial or derivative uses.
+Except for the limited rights necessarily provided through GitHub’s
+functionality and Terms of Service, no license or permission is granted
+to copy, reproduce, redistribute, republish, modify, adapt, translate,
+commercialize, sublicense, sell, implement, incorporate, or create
+derivative works from any portion of this repository without prior
+written permission from the applicable copyright owner.
 
-To view a copy of this license, visit:  
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+No commercial use, production implementation, portfolio implementation,
+model implementation, republication, redistribution, or use in the
+training, fine-tuning, evaluation, or development of artificial-
+intelligence or machine-learning systems is authorized without prior
+written permission.
 
-© 2023-25 Delta Strategy Co. All rights reserved.
+No patent, trademark, trade-secret, database, or other intellectual-
+property rights are granted by implication, estoppel, or otherwise.
+
+Third-party libraries, datasets, quotations, software, and other
+materials remain subject to their respective licenses and terms.
+
+For licensing or permission inquiries:
+sbhydari@gmail.com
