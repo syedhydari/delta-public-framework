@@ -1,6 +1,6 @@
 PROPRIETARY NOTICE — ALL RIGHTS RESERVED
 
-Copyright © 2023–2026 [Syed Bashir Hydari, Katsushi Arisaka, Jeff Traister].
+Copyright © 2023–2025 [Syed Bashir Hydari, Katsushi Arisaka, Jeff Traister].
 All rights reserved.
 
 The Delta Strategy white paper, public summary, documentation, figures,
